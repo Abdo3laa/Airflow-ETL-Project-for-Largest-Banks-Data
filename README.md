@@ -22,7 +22,6 @@ Welcome to the ETL pipeline project for processing bank data. This pipeline is d
 ### You can install them using pip:
 
 ```bash
-Copy code
 pip install pandas numpy requests beautifulsoup4 apache-airflow
 ```
 ## ETL Pipeline Steps
